@@ -11,7 +11,7 @@ footer {
 	overflow: hidden;
 }
 
-img {
+.aboutImg {
 	display: block;
     height: auto;
     width: 100%;
@@ -19,4 +19,8 @@ img {
 
 .col-md-4 {
 	text-align: center;
+}
+
+.col-md-4 h3 {
+	font-family: 'Comfortaa', cursive;
 }
