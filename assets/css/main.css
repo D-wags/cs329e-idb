@@ -1,4 +1,16 @@
 h1 {
-  color: red;
+  color: #911719;
   text-align: center;
+  font-family: 'Comfortaa', cursive;
+}
+
+h3 {
+  color: #911719;
+  text-align: center;
+  font-family: 'Comfortaa', cursive;	
+}
+
+.hotpic {
+  display: block;
+  margin: auto;
 }
